@@ -1,4 +1,4 @@
-#sorts unsigned integers by using radix sort on all the bits
+//sorts unsigned integers by using radix sort on all the bits
 
 #include <stdio.h>
 #include <stdlib.h>
